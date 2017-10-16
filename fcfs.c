@@ -79,7 +79,7 @@ int main()
 		printf("\nArrival_time=%d(ms)",f1.arrival_time[i]);
 		printf("\nPriority_time=%d(ms)",f1.priority[i]);
 		printf("\nResponse_time=%d(ms)",f1.response_time[i]);
-		printf("\Wait_time=%d(ms)",f1.wait_time[i]);
+		printf("\nWait_time=%d(ms)",f1.wait_time[i]);
 	}
 	
 }
